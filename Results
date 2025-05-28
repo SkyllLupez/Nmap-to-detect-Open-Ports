@@ -1,0 +1,23 @@
+Nmap scan results for the subnet 192.168.171.129/24
+
+192.168.171.1
+Host Status: Up
+
+All 1000 TCP ports filtered
+Protected by firewall.
+
+192.168.171.2
+Host Status: Up
+
+Port 53/tcp → filtered
+
+DNS service might be protected by a firewall
+
+All other 999 ports are closed.
+
+192.168.171.254
+Host Status: Up
+
+All ports filtered
+
+192.168.171.129 - (Host running scan Machine)
